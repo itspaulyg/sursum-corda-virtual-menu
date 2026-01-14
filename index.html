@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sursum Corda</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sursum Corda</h1>
+        <p>Welcome to Sursum Corda, a place to lift up your heart with robust elixirs and light fanfare.</p>
+    </header>
+    <main>
+        <div class="filter-buttons" id="categoryButtons">
+            <button class="filter-btn" data-filter="classics">Classics</button>
+            <button class="filter-btn" data-filter="modern">Modern Riffs</button>
+            <button class="filter-btn" data-filter="favorite">Favorites</button>
+        </div>
+
+        <div style="text-align:center; margin-top:10px;">
+            <button id="toggleSpiritBtn" class="filter-btn" aria-expanded="false" aria-controls="spiritButtons">Filter by Spirit</button>
+            <div id="spiritButtons" class="filter-buttons hidden" aria-label="Spirits" style="display:none; margin-top:10px;">
+                <!-- Spirit buttons will be inserted here -->
+            </div>
+        </div>
+
+        <div class="cocktails-container" id="cocktailsContainer">
+            <!-- Cocktails will be displayed here -->
+        </div>
+
+
+        <h2>About the Name</h2>
+            <p>Sursum Corda is Latin for "lift up your hearts," a phrase that the priest says during the Preface of the Mass to render thanks to God and to unite us with the heavenly spirits above in preparation for the Canon of the Mass and ultimately the Consecration.</p>
+    </main>
+    <script src="js/script.js"></script>
+  <!-- <script src="js/cocktail.js"></script> -->
+</body>
+</html>

@@ -1,0 +1,595 @@
+{
+    "classics": [
+        {
+            "id": "sazerac",
+            "name": "Sazerac",
+            "ingredients": [
+                "2 oz rye whiskey",
+                "1 sugar cube",
+                "2 dashes peychaud's bitters",
+                "absinthe rinse"
+            ],
+            "garnish": "lemon twist",
+            "instructions": "Rinse a chilled lowball glass with absinthe. Add remaining ingredients into a mixing glass with ice and stir until well-chilled. Strain into the lowball glass. Garnish with a lemon twist.",
+            "glass": "chilled lowball",
+            "spirit": [
+                "rye",
+                "whiskey"
+            ],
+            "description": "",
+            "quote": "A good choice of weaponry because it symbolizes the city of New Orleans.",
+            "favorite": true
+        },
+        {
+            "id": "tom-collins",
+            "name": "Tom Collins",
+            "ingredients": [
+                "2 oz gin",
+                "1 oz fresh lemon juice",
+                "1 oz simple syrup",
+                "top with club soda"
+            ],
+            "garnish": "lemon wheel",
+            "instructions": "Add gin, lemon juice, and simple syrup into a shaker with ice and shake until well-chilled (or build in a collins glass). Strain into a collins glass filled with ice. Top with club soda and garnish with a lemon wheel.",
+            "glass": "collins",
+            "spirit": [
+                "gin"
+            ],
+            "description": "",
+            "quote": "Have you seen Tom Collins?",
+            "favorite": false
+        },
+        {
+            "id": "old-fashioned",
+            "name": "Old Fashioned",
+            "ingredients": [
+                "2 oz bourbon",
+                "1 sugar cube",
+                "2 dashes angostura bitters",
+                "a splash of water"
+            ],
+            "garnish": "orange peel; cherry",
+            "instructions": "Add a sugar cube, the bitters, and a splash of water into a mixing glass (or build in a lowball glass). Muddle the sugar cube. Add ice and stir until well-chilled. Strain into a lowball glass with a rock of ice and garnish with an orange peel and/or cherry.",
+            "glass": "lowball",
+            "spirit": [
+                "bourbon",
+                "whiskey"
+            ],
+            "description": "",
+            "quote": "Call me old-fashioned, but I like my cocktails the way they were meant to be.",
+            "favorite": false
+        },
+        {
+            "id": "manhattan",
+            "name": "Manhattan",
+            "ingredients": [
+                "2 oz rye whiskey",
+                "1 oz sweet vermouth",
+                "2 dashes angostura bitters"
+            ],
+            "garnish": "cherry",
+            "instructions": "Add all ingredients into a mixing glass with ice and stir until well-chilled. Strain into a chilled coupe glass and garnish with a cherry.",
+            "glass": "coupe",
+            "spirit": [
+                "rye",
+                "whiskey",
+                "sweet vermouth"
+            ],
+            "description": "",
+            "quote": "Cue Godfather theme music.",
+            "favorite": false
+        },
+        {
+            "id": "martinez",
+            "name": "Martinez",
+            "ingredients": [
+                "1.5 oz gin",
+                "1.5 oz sweet vermouth",
+                "0.25 oz maraschino liqueur",
+                "2 dashes angostura bitters"
+            ],
+            "garnish": "orange twist",
+            "instructions": "Add all ingredients into a mixing glass with ice and stir until well-chilled. Strain into a chilled coupe glass and garnish with an orange twist.",
+            "glass": "coupe or martini",
+            "spirit": [
+                "gin",
+                "sweet vermouth",
+                "maraschino liqueur"
+            ],
+            "description": "",
+            "quote": "The classic cocktail that is not a Martini nor a Manhattan.",
+            "favorite": false
+        },
+        {
+            "id": "martini",
+            "name": "Martini",
+            "ingredients": [
+                "2.5 oz gin",
+                "0.5 oz dry vermouth",
+                "2 dashes of orange bitters"
+            ],
+            "garnish": "lemon twist; three olives",
+            "instructions": "Add all ingredients into a mixing glass with ice and stir until well-chilled. Strain into a chilled martini glass and garnish with a lemon twist or olive.",
+            "glass": "martini",
+            "spirit": [
+                "gin",
+                "dry vermouth"
+            ],
+            "description": "",
+            "quote": "A man must defend his home, his wife, his children, and his martini. &nbsp;&mdash;Jackie Gleason",
+            "favorite": true
+        },
+        {
+            "id": "daiquiri",
+            "name": "Daiquiri",
+            "ingredients": [
+                "2 oz white rum",
+                "1 oz fresh lime juice",
+                "1 oz simple syrup"
+            ],
+            "garnish": "lime wheel",
+            "instructions": "Add all ingredients into a shaker with ice and shake until well-chilled. Strain into a chilled coupe glass. Garnish with a lime wheel.",
+            "glass": "coupe",
+            "spirit": [
+                "rum"
+            ],
+            "description": "",
+            "quote": "It shouldn't taste of rum, it shouldn't taste of lime and it shouldn't taste of sugar. It should just taste of daiquiri. &nbsp;&mdash;Ernest Hemingway",
+            "favorite": false
+        },
+        {
+            "id": "the-last-word",
+            "name": "The Last Word",
+            "ingredients": [
+                "0.75 oz gin",
+                "0.75 oz green chartreuse",
+                "0.75 oz maraschino liqueur",
+                "0.75 oz fresh lime juice"
+            ],
+            "garnish": "cherry",
+            "instructions": "Add all ingredients into a shaker with ice and shake until well-chilled. Strain into a chilled coupe glass. Garnish with a cherry resting at the bottom.",
+            "glass": "coupe",
+            "spirit": [
+                "gin",
+                "chartreuse",
+                "maraschino liqueur"
+            ],
+            "description": "",
+            "quote": "People may say what they like about the decay of Christianity; the religious system that produced green Chartreuse can never really die. &nbsp;&mdash;Hector Hugh Munro (Saki)",
+            "favorite": true
+        },
+        {
+            "id": "sidecar",
+            "name": "Sidecar",
+            "ingredients": [
+                "2 oz cognac",
+                "1 oz triple sec",
+                "1 oz fresh lemon juice"
+            ],
+            "garnish": "lemon twist",
+            "instructions": "Add all ingredients into a shaker with ice and shake until well-chilled. Strain into a chilled coupe glass and garnish with a lemon twist.",
+            "glass": "coupe",
+            "spirit": [
+                "cognac",
+                "triple sec"
+            ],
+            "description": "",
+            "quote": "Bring me a light breakfast: black coffee and a sidecar. &nbsp;&mdash;Auntie Mame",
+            "favorite": false
+        },
+        {
+            "id": "negroni",
+            "name": "Negroni",
+            "ingredients": [
+                "1 oz gin",
+                "1 oz campari",
+                "1 oz sweet vermouth"
+            ],
+            "garnish": "orange twist",
+            "instructions": "Add all ingredients into a mixing glass with ice (or build in a lowball glass) and stir until well-chilled. Strain into a lowball glass with a rock of ice and garnish with an orange twist.",
+            "glass": "lowball",
+            "spirit": [
+                "gin",
+                "campari",
+                "sweet vermouth"
+            ],
+            "description": "",
+            "quote": "A Negroni is a cocktail of true substance, one that should be respected. It's not some lightweight, fruity concoction. It's a drink for people who like their drinks to make an impression. It says, 'I'm here, I'm serious, and I don't need you to like me.' &nbsp;&mdash;Anthony Bourdain",
+            "favorite": true
+        },
+        {
+            "id": "old-pal",
+            "name": "Old Pal",
+            "ingredients": [
+                "1 oz rye whiskey",
+                "1 oz dry vermouth",
+                "1 oz campari"
+            ],
+            "garnish": "lemon twist",
+            "instructions": "Add all ingredients into a mixing glass with ice and stir until well-chilled. Strain into a chilled coupe glass and garnish with a lemon twist.",
+            "glass": "coupe",
+            "spirit": [
+                "rye",
+                "whiskey",
+                "dry vermouth",
+                "campari"
+            ],
+            "description": "",
+            "quote": "There is no greater remedy for the heart nor sweeter comedy for the soul than the compnay of an old pal.",
+            "favorite": false
+        },
+        {
+            "id": "bees-knees",
+            "name": "The Bee's Knees",
+            "ingredients": [
+                "2 oz gin",
+                "1 oz fresh lemon juice",
+                "1 oz honey syrup"
+            ],
+            "garnish": "lemon wheel",
+            "instructions": "Add all ingredients into a shaker with ice and shake until well-chilled. Strain into a chilled coupe glass.",
+            "glass": "coupe",
+            "spirit": [
+                "gin"
+            ],
+            "description": "",
+            "quote": "The parties were bigger. The pace was faster. The shows were broader. The buildings were higher, the morals were looser and the liquor was cheaper. &nbsp;&mdash;F. Scott Fitzgerald",
+            "favorite": true
+        },
+        {
+            "id": "boulevardier",
+            "name": "Boulevardier",
+            "ingredients": [
+                "1 oz bourbon",
+                "1 oz campari",
+                "1 oz sweet vermouth"
+            ],
+            "garnish": "orange twist",
+            "instructions": "Add all ingredients into a mixing glass with ice (or build in a lowball glass) and stir until well-chilled. Strain into a lowball glass with a rock of ice and garnish with an orange twist.",
+            "glass": "lowball",
+            "spirit": [
+                "bourbon",
+                "whiskey",
+                "campari",
+                "sweet vermouth"
+            ],
+            "description": "",
+            "quote": "I'll always be a boulevardier. I have an extreme reverence and romantic longing for all that is decrepit and fatalistic. &nbsp;&mdash;Rufus Wainwright",
+            "favorite": false
+        },
+        {
+            "id": "corpse-reviver-no-2",
+            "name": "Corpse Reviver No. 2",
+            "ingredients": [
+                "0.75 oz gin",
+                "0.75 oz triple sec",
+                "0.75 oz lillet blanc",
+                "0.75 oz fresh lemon juice",
+                "absinthe rinse"
+            ],
+            "garnish": "lemon twist",
+            "instructions": "Add all ingredients into a shaker with ice and shake until well-chilled. Strain into a chilled coupe glass and garnish with a lemon twist.",
+            "glass": "coupe",
+            "spirit": [
+                "gin",
+                "triple sec",
+                "lillet blanc",
+                "absinthe"
+            ],
+            "description": "",
+            "quote": "And the graves were opened: and many bodies of the saints that had slept arose, And coming out of the tombs after his resurrection, came into the holy city, and appeared to many. &nbsp;&mdash;Matthew 27:52-53",
+            "favorite": true
+        },
+        {
+            "id": "hemingway-daiquiri",
+            "name": "Hemingway Daiquiri",
+            "ingredients": [
+                "2 oz white rum",
+                "0.25 oz maraschino liqueur",
+                "0.5 oz fresh lime juice",
+                "0.75 oz fresh grapefruit juice",
+                "lime wheel"
+            ],
+            "instructions": "Add all ingredients into a shaker with ice and shake until well-chilled. Strain into a chilled coupe glass.",
+            "glass": "coupe",
+            "spirit": [
+                "rum",
+                "maraschino liqueur"
+            ],
+            "description": "",
+            "quote": "'I drink to make other people more interesting.' -Ernest Hemingway",
+            "favorite": false
+        }
+    ],
+    "modern": [
+        {
+            "id": "vieux carre",
+            "name": "Vieux Carré",
+            "ingredients": [
+                "0.75 oz rye whiskey",
+                "0.75 oz cognac",
+                "0.75 oz sweet vermouth",
+                "0.25 oz benedictine",
+                "2 dashes peychaud's bitters",
+                "2 dashes angostura bitters"
+            ],
+            "garnish": "flamed orange coin",
+            "instructions": "Add all ingredients into a mixing glass with ice (or build in a lowball glass) and stir until well-chilled. Strain into a lowball glass with a rock of ice. Hold an orange coin slightly above the glass with a lit match underneath the coin. Express the oils of the orange coin over the match and cocktail.",
+            "glass": "lowball",
+            "spirit": [
+                "rye",
+                "whiskey",
+                "cognac",
+                "sweet vermouth",
+                "benedictine"
+            ],
+            "description": "",
+            "quote": "Laissez les bons temps rouler! (Let the good times roll!)",
+            "favorite": false
+        },
+        {
+            "id": "moscow-mule",
+            "name": "Moscow Mule",
+            "ingredients": [
+                "2 oz vodka",
+                "0.5 oz fresh lime juice",
+                "top with ginger beer"
+            ],
+            "garnish": "lime wedge",
+            "instructions": "Add vodka and lime juice into a copper mug (or a collins glass). (Optional) drop a lime wedge or two into the bottom of the mug and muddle. Add ice and then top with ginger beer. Garnish with a lime wedge.",
+            "glass": "copper mug; collins",
+            "spirit": [
+                "vodka"
+            ],
+            "description": "",
+            "quote": "Drink like a fish, kick like mule! Uno mas!",
+            "favorite": false
+        },
+        {
+            "id": "margarita",
+            "name": "Margarita",
+            "ingredients": [
+                "2 oz tequila",
+                "0.5 oz triple sec",
+                "0.5 oz fresh lime juice",
+                "0.5 oz simple syrup"
+            ],
+            "garnish": "lime wheel; salt or sugar rim (optional)",
+            "instructions": "Add all ingredients into a shaker with ice and shake until well-chilled. Strain into a chilled coupe glass. Garnish with a lime wheel. (Optional) if adding to the rim, rub a lime wedge around the rim of the glass and dip into salt or sugar.",
+            "glass": "coupe",
+            "spirit": [
+                "tequila",
+                "triple sec"
+            ],
+            "description": "",
+            "quote": "If life gives you limes, make margaritas. &nbsp;&mdash;Jimmy Buffett",
+            "favorite": true
+        },
+        {
+            "id": "vesper",
+            "name": "Vesper",
+            "ingredients": [
+                "3 oz gin",
+                "1 oz vodka",
+                "0.5 oz lillet blanc"
+            ],
+            "garnish": "lemon twist",
+            "instructions": "Add all ingredients into a shaker with ice and shake until well-chilled. Strain into a chilled martini glass and garnish with a lemon twist.",
+            "glass": "martini",
+            "spirit": [
+                "gin",
+                "vodka",
+                "lillet blanc"
+            ],
+            "description": "",
+            "quote": "Three measures of Gordon's, one of vodka, half a measure of Kina Lillet. Shake it very well until it's ice-cold, then add a large thin slice of lemon peel. &nbsp;&mdash;James Bond, Casino Royale",
+            "favorite": true
+        },
+        {
+            "id": "french-connection",
+            "name": "French Connection",
+            "ingredients": [
+                "2 oz cognac",
+                "1 oz amaretto"
+            ],
+            "instructions": "Add all ingredients into a mixing glass with ice and stir until well-chilled. Strain into a lowball glass with a rock of ice.",
+            "glass": "lowball",
+            "spirit": [
+                "cognac",
+                "amaretto"
+            ],
+            "description": "",
+            "quote": "I'm Irish. I can drink whatever I want. &nbsp;&mdash;Popeye Doyle, The French Connection",
+            "favorite": false
+        },
+        {
+            "id": "espresso-martini",
+            "name": "Espresso Martini",
+            "ingredients": [
+                "1.5 oz vodka",
+                "1 oz coffee liqueur",
+                "1 oz fresh espresso",
+                "0.5 oz simple syrup"
+            ],
+            "garnish": "three coffee beans",
+            "instructions": "Add all ingredients into a shaker with ice and shake until well-chilled. Strain into a chilled martini glass and garnish with three coffee beans.",
+            "glass": "martini",
+            "spirit": [
+                "vodka",
+                "coffee liqueur"
+            ],
+            "description": "",
+            "quote": "Give me something to wake me up and f*** me up.",
+            "favorite": false
+        },
+        {
+            "id": "cosmopolitan",
+            "name": "Cosmopolitan",
+            "ingredients": [
+                "1.5 oz vodka",
+                "1 oz triple sec",
+                "0.5 oz fresh lime juice",
+                "0.5 oz cranberry juice"
+            ],
+            "garnish": "lime wheel",
+            "instructions": "Add all ingredients into a shaker with ice and shake until well-chilled. Strain into a chilled coupe glass and garnish with a lime twist.",
+            "glass": "coupe; martini",
+            "spirit": [
+                "vodka",
+                "triple sec"
+            ],
+            "description": "",
+            "quote": "Sip, sip, hooray!",
+            "favorite": false
+        },
+        {
+            "id": "gold-rush",
+            "name": "Gold Rush",
+            "ingredients": [
+                "2 oz bourbon",
+                "1 oz fresh lemon juice",
+                "1 oz honey syrup"
+            ],
+            "garnish": "lemon wheel",
+            "instructions": "Add all ingredients into a shaker with ice and shake until well-chilled. Strain into a lowball glass over a rock of ice. Garnish with a lemon wheel.",
+            "glass": "lowball",
+            "spirit": [
+                "bourbon",
+                "whiskey"
+            ],
+            "description": "",
+            "quote": "The men who got rich in the Gold Rush were the ones who sold the picks and shovels.",
+            "favorite": false
+        },
+        {
+            "id": "enzoni",
+            "name": "Enzoni",
+            "ingredients": [
+                "1 oz gin",
+                "1 oz campari",
+                "0.5 oz fresh lemon juice",
+                "0.5 oz simple syrup",
+                "green grapes"
+            ],
+            "garnish": "three green grapes",
+            "instructions": "Add five green grapes into a shaker and muddle them. Add the remaining ingredients into the shaker along with ice and shake until well-chilled. Strain into a lowball glass with a rock of ice and garnish with three skewered green grapes.",
+            "glass": "lowball",
+            "spirit": [
+                "gin",
+                "campari"
+            ],
+            "description": "",
+            "quote": "The juice of the grape is the liquid quintessence of concentrated sunbeams. &nbsp;&mdash;Thomas Love Peacock",
+            "favorite": false
+        },
+        {
+            "id": "revolver",
+            "name": "Revolver",
+            "ingredients": [
+                "2 oz bourbon",
+                "0.5 oz coffee liqueur",
+                "2 dashes orange bitters"
+            ],
+            "garnish": "orange twist",
+            "instructions": "Add all ingredients into a mixing glass with ice and stir until well-chilled. Strain into a chilled coupe glass and garnish with an orange twist.",
+            "glass": "coupe",
+            "spirit": [
+                "bourbon",
+                "whiskey",
+                "coffee liqueur"
+            ],
+            "description": "",
+            "quote": "No one dared to ask his business / No one dared to make a slip / The stranger there among them / Had a big iron on his hip. &nbsp;&mdash;Marty Robbins, Big Iron",
+            "favorite": false
+        },
+        {
+            "id": "juliet-&-romeo",
+            "name": "Juliet & Romeo",
+            "ingredients": [
+                "2 oz gin",
+                "1 oz lime juice",
+                "1 oz simple syrup",
+                "2 dashes angostura bitters",
+                "mint leaves",
+                "cucumber slices",
+                "sea salt"
+            ],
+            "garnish": "sprig of mint; cucumber slice",
+            "instructions": "Muddle mint leaves, cucumber slices, and sea salt in a shaker. Add remaining ingredients into the shaker with ice and shake until well-chilled. Strain into a chilled coupe glass. Garnish with a sprig of mint.",
+            "glass": "coupe",
+            "spirit": [
+                "gin"
+            ],
+            "description": "",
+            "quote": "Romeo, Romeo, Romeo! Here's drink: I drink to thee. &nbsp;&mdash;William Shakespeare, Romeo and Juliet",
+            "favorite": false
+        },
+        {
+            "id": "paper-plane",
+            "name": "Paper Plane",
+            "ingredients": [
+                "0.75 oz bourbon",
+                "0.75 oz aperol",
+                "0.75 oz amaro",
+                "0.75 oz fresh lemon juice"
+            ],
+            "garnish": "mini paper plane",
+            "instructions": "Add all ingredients into a shaker with ice and shake until well-chilled. Strain into a chilled coupe glass.",
+            "glass": "coupe",
+            "spirit": [
+                "bourbon",
+                "whiskey",
+                "aperol",
+                "amaro"
+            ],
+            "description": "",
+            "quote": "I fly like paper, get high like planes / If you catch me at the border, I got visas in my name. &nbsp;&mdash;M.I.A., Paper Planes",
+            "favorite": true
+        },
+        {
+            "id": "outlander",
+            "name": "Outlander",
+            "ingredients": [
+                "2 oz scotch",
+                "0.5 oz maraschino liqueur",
+                "a barspoon of absinthe",
+                "2 dashes peychaud's bitters"
+            ],
+            "garnish": "cherry; lemon twist",
+            "instructions": "Add all ingredients into a mixing glass with ice and stir until well-chilled. Strain into a lowball glass and garnish with a cherry and/or lemon twist.",
+            "glass": "lowball",
+            "spirit": [
+                "scotch",
+                "whiskey",
+                "maraschino liqueur",
+                "absinthe"
+            ],
+            "description": "",
+            "quote": "The water was not fit to drink. To make it palatable, we had to add whiskey. By diligent effort, I learned to like it. &nbsp;&mdash;Winston Churchill",
+            "favorite": false
+        },
+        {
+            "id": "necromancer",
+            "name": "Necromancer",
+            "ingredients": [
+                "0.75 oz absinthe",
+                "0.75 oz elderflower liqueur",
+                "0.75 oz lillet blanc",
+                "0.75 oz fresh lemon juice",
+                "gin rinse"
+            ],
+            "garnish": "lemon twist",
+            "instructions": "Rinse a chilled coupe glass with gin. Add remaining ingredients into a shaker with ice and shake until well-chilled. Strain into the coupe glass and garnish with a lemon twist.",
+            "glass": "coupe",
+            "spirit": [
+                "absinthe",
+                "elderflower liqueur",
+                "lillet blanc",
+                "gin"
+            ],
+            "description": "",
+            "quote": "When he had said these things, he cried with a loud voice: Lazarus, come forth. &nbsp;&mdash;John 11:43",
+            "favorite": true
+        }
+    ]
+}
