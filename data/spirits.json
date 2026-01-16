@@ -1,0 +1,45 @@
+{
+    "Whiskey": [
+        "Elijah Craig Small Batch Bourbon",
+        "New Riff Kentucky Straight Bourbon",
+        "Rittenhouse Rye",
+        "Glenliviet 12 Year Scotch",
+        "Lagavulin 16 Year Scotch"
+    ],
+    "Clear Liquor": [
+        "Tanqueray Gin",
+        "Reyka Icelandic Vodka",
+        "Axia",
+        "Bayou Silver Rum",
+        "Del Maguey Vida Mezcal"
+    ],
+    "Liqueur": [
+        "Aperol",
+        "Campari",
+        "Italicus",
+        "Cointreau",
+        "Luxardo Maraschino",
+        "St. Germain",
+        "Montenegro Amaro",
+        "Gran Gala Orange Liqueur",
+        "Kahlua",
+        "Pimms No. 1"
+    ],
+    "Specialty": [
+        "Green Chartreuse",
+        "Benedictine",
+        "Villa Massa Amaretto",
+        "Lucid Absinthe"
+    ],
+    "Other": [
+        "Villa Cardea Vermouth di Torino Rosso",
+        "Dolin Dry Vermouth",
+        "Lillet Blanc"
+    ],
+    "Bitters": [
+        "Peychaud's Bitters",
+        "Angostura Aromatic Bitters",
+        "Angostura Orange Bitters",
+        "Wicked Dolphin Spiced Bitters"
+    ]
+}

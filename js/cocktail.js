@@ -1,7 +1,3 @@
-if (typeof browser === 'undefined') {
-    var browser = chrome;
-}
-
 const params = new URLSearchParams(window.location.search);
 const drinkId = params.get('drink');
 

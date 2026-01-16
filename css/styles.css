@@ -380,6 +380,34 @@ ul {
     text-shadow: 0 0 10px rgba(212, 175, 55, 0.3);
 }
 
+#spiritListContainer {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background: var(--secondary-dark);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    box-shadow: 0 4px 12px var(--shadow-dark);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+}
+
+.spirit-category {
+    flex: 1;
+    margin: 0 10px;
+}
+
+.spirit-category h2 {
+    color: var(--accent-gold);
+    font-size: 1.5em;
+    margin: 0 15px;
+    border-top: none;
+    padding-top: 10px;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 10px;
+}
+
 /* ===== TYPOGRAPHY FOR ABOUT SECTION ===== */
 main h2 {
     color: var(--accent-gold);
@@ -440,5 +468,9 @@ footer {
 
     .cocktail-info h2 {
         font-size: 1.8em;
+    }
+
+    #spiritListContainer {
+        grid-template-columns: 1fr;
     }
 }

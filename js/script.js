@@ -1,7 +1,3 @@
-if (typeof browser === 'undefined') {
-    var browser = chrome;
-}
-
 let cocktailsData = {};
 let selectedCategories = new Set();
 let selectedSpirits = new Set();
